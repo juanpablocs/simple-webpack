@@ -17,7 +17,7 @@ build project:
 npm run build
 ```
 
-usage:
+dependencias:
 * webpack
 * hjs-webpack
 * babel (es6)
