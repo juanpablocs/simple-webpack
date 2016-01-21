@@ -7,6 +7,11 @@ run and install:
 npm install && npm run start
 ```
 
+> go http://localhost:3000 
+
+> console => hello world
+
+
 build project:
 ```
 npm run build
